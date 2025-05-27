@@ -1,4 +1,154 @@
 {
-    "top_n_overall": [],
-    "top_n_last_10_min_accessed": []
+    "top_n_overall": [
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/README.md",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/eslint.config.mjs",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/package.json",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/post_process.log",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/post_process_status.lock",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/public/favicon.ico",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/public/index.html",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/public/logo192.png",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/public/logo512.png",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/public/manifest.json",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/public/robots.txt",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/react_server.log",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/src/App.css",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/src/App.js",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/src/index.css",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/src/index.js",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/src/logo.svg",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/src/setupTests.js",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/src/TicTacToe.css",
+            "count": 3
+        }
+    ],
+    "top_n_last_10_min_accessed": [
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/README.md",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/eslint.config.mjs",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/package.json",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/post_process.log",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/post_process_status.lock",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/public/favicon.ico",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/public/index.html",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/public/logo192.png",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/public/logo512.png",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/public/manifest.json",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/public/robots.txt",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/react_server.log",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/src/App.css",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/src/App.js",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/src/index.css",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/src/index.js",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/src/logo.svg",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1287-a5fe4999/tic_tac_toe_interactive/src/setupTests.js",
+            "count": 4
+        }
+    ]
 }

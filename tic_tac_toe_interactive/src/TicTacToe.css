@@ -1,0 +1,47 @@
+.tic-tac-toe {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+  margin-top: 60px;
+}
+
+.board {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+  margin: 2rem 0;
+}
+
+.cell {
+  width: 100px;
+  height: 100px;
+  background-color: var(--kavia-dark);
+  border: 2px solid var(--kavia-orange);
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  color: var(--text-color);
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.cell:hover:not(.filled) {
+  background-color: rgba(232, 122, 65, 0.1);
+}
+
+.cell.filled {
+  cursor: not-allowed;
+}
+
+.game-info {
+  margin-bottom: 1.5rem;
+  text-align: center;
+  font-size: 1.25rem;
+}
+
+.restart-btn {
+  margin-top: 1.5rem;
+}
